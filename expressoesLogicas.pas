@@ -1,4 +1,4 @@
-Program Pzim ;
+Program Pzim02;
 var R: boolean;
 	A :integer;
 	nome : String;
