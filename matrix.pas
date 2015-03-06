@@ -1,4 +1,4 @@
-Program Matrix;
+Program MatrixJP;
 Uses JpPereira;
 
 var
