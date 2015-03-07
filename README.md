@@ -9,3 +9,6 @@ Estruturado e Procedural
 
 ##Aos alunos
 Atualizem os seus repositórios a partir deste frequentemente.
+
+##Dúvidas
+As dúvidas que porventura surgirem devem ser efetuadas na Issue Dúvidas
