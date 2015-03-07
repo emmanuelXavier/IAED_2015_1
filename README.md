@@ -2,13 +2,13 @@
 Sources produzidos na disciplina de Introdução a algorítmos e estruturas de dados do curso de S.I da FACIMP
 
 ##Linguagens
-Pascal e C
+Pascal e C.
 
 ##Paradigmas
-Estruturado e Procedural
+Estruturado e Procedural.
 
 ##Aos alunos
 Atualizem os seus repositórios a partir deste frequentemente.
 
 ##Dúvidas
-As dúvidas que porventura surgirem devem ser efetuadas na Issue Dúvidas
+As dúvidas que porventura surgirem devem ser efetuadas na Issue Dúvidas.
